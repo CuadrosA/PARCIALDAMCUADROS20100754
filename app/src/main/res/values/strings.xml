@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PARCIALDAMCUADROS20100754</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Johana Doe</string>
+    <string name="nav_header_subtitle">admin@travelapp.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Presupuesto</string>
+    <string name="menu_gallery">Seguros</string>
+    <string name="menu_slideshow">Hoteles</string>
+    <string name="presentacion_texto">Tu compañero ideal para planificar y disfrutar de tus viajes. Con TravelApp, podrás explorar destinos emocionantes, organizar itinerarios personalizados y encontrar las mejores opciones de alojamiento y actividades, todo desde la plama de tu mano. \nYa sea que estés planeando una vacaciones soñadas o un viaje de último minuto, TravelApp está aquí para hacer que tu experiencia sea fácil, eficiente y memorable.\n¡Empieza a emplorar el mundo con nosotros hoy mismo!</string>
+    <string name="presentacion_titulo">TravelApp</string>
+    <string name="presentacion_boton">GET STARTED</string>
+    <string name="login_titulo">Sign In</string>
+    <string name="login_email_text">Email</string>
+    <string name="login_email_hint">Enter the email</string>
+    <string name="login_psw_text">Password</string>
+    <string name="login_psw_hint">Enter the password</string>
+    <string name="login_btn_login">Sign In</string>
+    <string name="fragment_home_titulo">Presupuesto</string>
+    <string name="fragment_home_vuelo">Costo del vuelo en USD</string>
+    <string name="fragment_home_alojamiento">Costo de alojamiento por noche USD</string>
+    <string name="fragment_home_noches">Cantidad de noches</string>
+    <string name="fragment_home_comidas">Costo diario de comidas en USD</string>
+    <string name="fragment_home_agreement">I agree to the terms of Services and Privacy Policy</string>
+    <string name="fragment_home_btn">Calcular</string>
+    <string name="fragment_home_result_text">El presupuesto total es:</string>
+    <string name="fragment_gallery">Empresas de seguros</string>
+    <string name="fragment_slide_titulo" >Hoteles</string>
+</resources>
